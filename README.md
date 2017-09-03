@@ -4,9 +4,8 @@
  * 效果：[点击查看](https://fishnon.github.io/responsive-layout/project01-imooc/)
  * 源码：[点击查看](https://github.com/FishNon/responsive-layout)
 
- ### 2 移动端布局
- * 效果：[点击查看]()
- * 源码：[点击查看]()
+ ### 2 移动端布局集合
+ * 源码：[点击查看](https://github.com/FishNon/mobile-layout)
 
  ### 3 选词填空
  * 效果：[点击查看](https://github.com/FishNon/banked-cloze)
