@@ -11,7 +11,8 @@
  
  * 源码：[点击查看](https://github.com/FishNon/mobile-layout)
  * 举例展示：[点击查看](https://fishnon.github.io/mobile-layout/shopping-mall/index.html)<br/>
- ![]()
+ ![](https://github.com/FishNon/mobile-layout/blob/master/shopping-mall/img/show/01.png)
+ ![](https://github.com/FishNon/mobile-layout/blob/master/shopping-mall/img/show/02.png)
 
  ### 3 选词填空
  > 该项目主要功能为【选词填空】，实现有在线答题、选题、交卷打分、批阅、解析等功能；
