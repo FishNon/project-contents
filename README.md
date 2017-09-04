@@ -26,11 +26,11 @@
  ### 5 JS集合
  * 源码：[点击查看](https://github.com/FishNon/js-tools)
  * 举例展示：<br/>
- 　　　　[带预览的幻灯片](https://fishnon.github.io/js-tools/lantern-slide/index.html)：该案例为带预览的幻灯片，通过transition、box-shadow等实现多种样式，如图片倒影、图片切换、文字进入等。<br/>
- 　　　　![](https://github.com/FishNon/js-tools/blob/master/lantern-slide/img/show/lantern-slide.gif)<br/>
- 　　　　[星级评分](https://fishnon.github.io/js-tools/star-rating/index.html)：该案例为星级评分，囊括了纯CSS实现、面相对象等多种方法；<br/> 
- 　　　　!{}(https://github.com/FishNon/js-tools/blob/master/star-rating/img/show/rating.gif)
-     
+ [带预览的幻灯片](https://fishnon.github.io/js-tools/lantern-slide/index.html)：该案例为带预览的幻灯片，通过transition、box-shadow等实现多种样式，如图片倒影、图片切换、文字进入等。<br/>
+ ![](https://github.com/FishNon/js-tools/blob/master/lantern-slide/img/show/lantern-slide.gif)<br/>
+ [星级评分](https://fishnon.github.io/js-tools/star-rating/index.html)：该案例为星级评分，囊括了纯CSS实现、面相对象等多种方法；<br/> 
+ !{}(https://github.com/FishNon/js-tools/blob/master/star-rating/img/show/rating.gif)<br/>
+ 
  ### 6 jQuery实现ToDoList
  > 该项目是一个“TodoList”Web单页应用，其主要功能是进行任务的创建、更新、删除、查看详情、勾选完成任务等功能； 项目主要使用了localStorage进行数据的存储，通过Storage对象进行数据项的增删改查，然后通过js传递显示到web页面； 项目过程中，主要通过normalize进行css reset、应用jQuery获取DOM节点等、最后通过store.js来进行localStorage的操作。
  
